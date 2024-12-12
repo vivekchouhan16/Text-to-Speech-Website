@@ -9,7 +9,7 @@ Users can enter their login credentials (Username and Password).
 Login details are saved to Google Sheets using an integration mechanism.
 <h3>Non-functional Text-to-Speech Section:</h3>
 The website includes a placeholder for a Text-to-Speech feature, but this functionality is currently not implemented.
-# Future Improvements
+<h3>Future Improvements</h3>
 Add the actual Text-to-Speech functionality using the Web Speech API or other libraries.
 Implement proper authentication and user management.
 Improve the integration with Google Sheets to handle data securely.
